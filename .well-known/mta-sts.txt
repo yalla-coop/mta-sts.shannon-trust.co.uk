@@ -1,4 +1,4 @@
 version: STSv1
-mode: enforced
+mode: enforce
 mx: shannontrust-org-uk.mail.protection.outlook.com
 max_age: 1209600
